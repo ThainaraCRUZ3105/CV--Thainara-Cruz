@@ -1,0 +1,26 @@
+main{width:960px;
+  margin-left:auto;
+  margin-right:auto;}
+
+body {font-family:Serif;}
+
+header {text-align:center;}
+
+h2{padding:5px;
+  background:#585858;
+  color:#2E2E2E;}
+
+img{float:left;
+  width:10%;
+  border:thin solid;
+  padding:5px;
+  margin-bottom:5px;}
+
+exp{
+  text-indent:50px;
+}
+
+#email{
+  text-decoration:underline;
+  font-style:italic;
+}
